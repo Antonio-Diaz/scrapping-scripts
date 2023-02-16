@@ -1,6 +1,6 @@
 # Scrapper LaComer
 
-This is a Python script for get data from python.
+This is a script for get products data from lacomer with python.
 
 ## Installation
 
@@ -13,7 +13,7 @@ pip install selenium
 ## Usage
   
 ```python
-python lacomer-scrapper.py
+python test_categories.py
 ```
 
 ## License
